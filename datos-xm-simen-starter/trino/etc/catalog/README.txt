@@ -1,0 +1,1 @@
+Catálogos de Trino. Dejamos solo `iceberg.properties` usando catálogo JDBC (sin Hive Metastore).
